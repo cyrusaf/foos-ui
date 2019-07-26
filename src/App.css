@@ -31,3 +31,25 @@
     transform: rotate(360deg);
   }
 }
+
+.league-sidebar {
+  float: left;
+  height: 100vh;
+  width: 200px;
+  border-right: #ccc 1px solid;
+
+  text-align: left;
+}
+
+.league-sidebar p {
+  border-bottom: #eee 1px solid;
+  padding: 5px;
+  margin: 0px;
+}
+
+.league-sidebar a {
+  display: block;
+  padding: 5px;
+  text-align: center;
+  width: 100%;
+}
